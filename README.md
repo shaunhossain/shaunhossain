@@ -1,12 +1,12 @@
 <p align="center">
 <img src="https://github.com/nameisjayant/Paging3-with-RoomDatabase-and-Retrofit-in-Android-Kotlin/blob/master/IMG_20210519_201158-removebg-preview.png" height="350px"/> </p>
 
-### Hello there👋! I'm Shaun Hossain 😇
+### Hello there🖐️! I'm Shaun Hossain ✌️
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
 _**LATEST UPDATE:**_ Learning Ktor for backend and jetpack compose 
 
-- 👨‍🎓 I'm a Mobile Application Developer.
+- 💻 I'm a Mobile Application Developer.
 - 👨‍💻 ***SelfTaught*** Developer.
 - 📱 Native Android App developer.
 - 😍 Loves coding ❤️
