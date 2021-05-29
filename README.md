@@ -6,18 +6,18 @@
 
 _**LATEST UPDATE:**_ Learning Ktor for backend and jetpack compose 
 
-- 👨‍🎓 22 year old computer science engineer.
-- 👨‍💻 ***#SelfTaught*** Developer.
-- 📱 Mobile App developer.
-- 😍 Loves to write blogs ❤️
+- 👨‍🎓 I'm a Mobile Application Developer.
+- 👨‍💻 ***SelfTaught*** Developer.
+- 📱 Native Android App developer.
+- 😍 Loves coding ❤️
 
 <a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
 
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&layout=compact" alt="agamkoradiya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunhossain&layout=compact" alt="agamkoradiya" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nameisjayant&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=shaunhossain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&theme=black-blue" alt="nameisjayant"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunhossain&theme=black-blue" alt="nameisjayant"/>
