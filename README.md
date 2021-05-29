@@ -11,7 +11,7 @@ _**LATEST UPDATE:**_ Learning Ktor for backend and jetpack compose
 - 📱 Native Android App developer.
 - 😍 Loves coding ❤️
 
-<a href="https://www.linkedin.com/in/jayant-kumar-262597171/"> Linkedin </a>
+<a href="https://www.linkedin.com/in/shaunhossain/"> Linkedin </a>
 
 
 
