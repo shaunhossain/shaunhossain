@@ -4,7 +4,7 @@
 ### Hello there🖐️! I'm Shaun Hossain ✌️
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
-_**LATEST UPDATE:**_ Learning Ktor for backend and jetpack compose 
+_**LATEST UPDATE:**_ Learning jetpack compose 
 
 - 💻 I'm a Mobile Application Developer.
 - 👨‍💻 ***SelfTaught*** Developer.
