@@ -7,7 +7,7 @@
 _**LATEST UPDATE:**_ Learning Flutter
 
 - 💻 I'm a Mobile Application Developer.
-- 👨‍💻 working on ***JoulesLabs*** as Mobile Application Developer Intern.
+- 👨‍💻 working on ***<a href="https://www.linkedin.com/in/shaunhossain/"> Linkedin </a>*** as Mobile Application Developer Intern.
 - 📱 Native Android App developer.
 - 😍 Loves coding ❤️
 
