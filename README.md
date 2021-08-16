@@ -7,7 +7,7 @@
 _**LATEST UPDATE:**_ Learning Flutter
 
 - 💻 I'm a Mobile Application Developer.
-- 👨‍💻 working on ***<a href="https://jouleslabs.com/">JoulesLabs</a>*** as Mobile Application Developer Intern.
+- 👨‍💻 working as Intern Mobile Application Developer at ***<a href="https://jouleslabs.com/">JoulesLabs</a>***.
 - 📱 Native Android App developer.
 - 😍 Loves coding ❤️
 
