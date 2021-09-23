@@ -14,6 +14,6 @@ _**LATEST UPDATE:**_ Learning Flutter
 <a href="https://www.linkedin.com/in/shaunhossain/"> Linkedin </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaunhossain&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=692ACF&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=shaunhossain&&show_icons=true&title_color=ffffff&icon_color=150829&text_color=692ACF&bg_color=ffffff">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunhossain&theme=black-blue" alt="nameisjayant"/>
