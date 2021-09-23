@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/shaunhossain/shaunhossain/blob/main/hello_there.gif" height="300px"/> </p>
 
-### Hello there🖐️! I'm Shaun Hossain ✌️
+### Hi, I'm Shaun Hossain
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
 _**LATEST UPDATE:**_ Learning Flutter
