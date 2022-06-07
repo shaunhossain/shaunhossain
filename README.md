@@ -4,10 +4,11 @@
 ### Hi, I'm Shaun Hossain
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
-_**LATEST UPDATE:**_ Learning Flutter
+_**LATEST UPDATE:**_ Learning  Android Jetpack Compose
 
 - 💻 I'm a Mobile Application Developer.
 - 👨‍💻 working as Mobile Application Developer at ***<a href="https://jouleslabs.com/">JoulesLabs</a>***.
+- 📱 Flutter developer.
 - 📱 Native Android App developer.
 - 😍 Loves coding ❤️
 
