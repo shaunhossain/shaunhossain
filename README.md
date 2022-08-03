@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://github.com/shaunhossain/shaunhossain/blob/main/hello_there.gif" height="300px"/> </p>
-
 ### Hi, I'm Shaun Hossain
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
