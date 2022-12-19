@@ -16,4 +16,3 @@ _**LATEST UPDATE:**_ Learning  Android Jetpack Compose
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunhossain&theme=black-blue" alt="nameisshaunhossain"/>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shaunhossain&theme=tokyonight&hide_border=true" width="49%" >
