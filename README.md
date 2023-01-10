@@ -12,7 +12,7 @@ _**LATEST UPDATE:**_ Learning  Android Jetpack Compose
 <a href="https://www.linkedin.com/in/shaunhossain/"> Linkedin </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaunhossain&&show_icons=true&title_color=161239&icon_color=150829&text_color=692ACF&bg_color=ffffff">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shaunhossain&&show_icons=true&title_color=161239&icon_color=150829&text_color=692ACF&bg_color=ffffff">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunhossain&theme=black-blue" alt="nameisshaunhossain"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunhossain&theme=black-blue" alt="nameisshaunhossain"/> -->
 
