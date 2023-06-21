@@ -1,7 +1,7 @@
 ### Hi, I'm Shaun Hossain
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunhossain" alt="jayant" /> </p>
 
-_**LATEST UPDATE:**_ Learning  Android Jetpack Compose
+_**LATEST UPDATE:**_ Learning  Android Jetpack Compose & Swift
 
 - 💻 I'm a Mobile Application Developer.
 - 👨‍💻 working as Mobile Application Developer at ***<a href="https://www.barikoi.com/">Barikoi Technologies Limited</a>***.
