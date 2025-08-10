@@ -12,7 +12,6 @@ _**LATEST UPDATE:**_ Learning  Android Jetpack Compose & Swift
 <a href="https://www.linkedin.com/in/shaunhossain/"> Linkedin </a>
 ### Statistics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaunhossain&theme=dark&hide_langs_below=1" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunhossain&" alt="shaunhossain"/></p>
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=shaunhossain&&show_icons=true&title_color=161239&icon_color=150829&text_color=692ACF&bg_color=ffffff">
