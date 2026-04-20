@@ -4,7 +4,6 @@
 _**LATEST UPDATE:**_ Learning  Android Jetpack Compose & Swift
 
 - 💻 I'm a Mobile Application Developer.
-- 👨‍💻 working as Mobile Application Developer at ***<a href="https://www.barikoi.com/">Barikoi Technologies Limited</a>***.
 - 📱 Flutter developer.
 - 📱 Native Android App developer.
 - 😍 Loves coding ❤️
